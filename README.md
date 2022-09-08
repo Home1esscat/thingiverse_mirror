@@ -1,4 +1,5 @@
 # Thingiverse android client
+## DEPRECATED [Thingiverse API contains some problems]
 
 Мобильный клиент сайта thingiverse.com  
 Разрабатывается с целью изучения возможностей Flutter.
